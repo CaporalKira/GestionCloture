@@ -1,0 +1,17 @@
+22/04/2018 12:38:00 ==> Cloture Fiches : MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---> System.IO.IOException: Impossible de lire les données de la connexion de transport : Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu. ---> System.Net.Sockets.SocketException: Une tentative de connexion a échoué car le parti connecté n’a pas répondu convenablement au-delà d’une certaine durée ou une connexion établie a échoué car l’hôte de connexion n’a pas répondu
+   à System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   à System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fin de la trace de la pile d'exception interne ---
+   à System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   à MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   à MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   à MySql.Data.MySqlClient.NativeDriver.ReadOk(Boolean read)
+   à MySql.Data.MySqlClient.NativeDriver.SetDatabase(String dbName)
+   à MySql.Data.MySqlClient.Driver.SetDatabase(String dbName)
+   à MySql.Data.MySqlClient.MySqlConnection.ChangeDatabase(String databaseName)
+   à MySql.Data.MySqlClient.MySqlConnection.Open()
+   à GsbClotureFiche.ConnexionBDD..ctor(String chaineConnection) dans C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\ConnexionBDD.cs:ligne 25
+   à GsbClotureFiche.ClotureFiche.cloturerFiches() dans C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\ClotureFiche.cs:ligne 85

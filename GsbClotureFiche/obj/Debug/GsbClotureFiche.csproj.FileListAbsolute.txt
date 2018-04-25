@@ -1,0 +1,11 @@
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Debug\GsbClotureFiche.exe.config
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Debug\GsbClotureFiche.exe
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Debug\GsbClotureFiche.pdb
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Debug\MySql.Data.dll
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Debug\MySql.Data.xml
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.csproj.CopyComplete
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.exe
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.pdb
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.ProjectInstaller.resources
+C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\obj\Debug\GsbClotureFiche.csproj.GenerateResource.cache

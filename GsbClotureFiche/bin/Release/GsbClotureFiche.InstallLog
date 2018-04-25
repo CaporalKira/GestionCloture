@@ -1,0 +1,34 @@
+﻿Installation de l'assembly 'C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.InstallLog
+   assemblypath = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe
+Installation du service Gestion de cloture GSB en cours...
+Création d'une source EventLog Gestion de cloture GSB dans le journal Application...
+Restauration de l'assembly 'C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.InstallLog
+   assemblypath = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe
+Restauration de l'état précédent du journal des événements pour la source Gestion de cloture GSB.
+Installation de l'assembly 'C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.InstallLog
+   assemblypath = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe
+Installation du service Gestion de cloture GSB en cours...
+Le service Gestion de cloture GSB a été installé avec succès.
+Création d'une source EventLog Gestion de cloture GSB dans le journal Application...
+Validation de l'assembly 'C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.InstallLog
+   assemblypath = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe
+Désinstallation de l'assembly 'C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.InstallLog
+   assemblypath = C:\Users\Abdel\source\repos\GsbClotureFiche\GsbClotureFiche\bin\Release\GsbClotureFiche.exe
+Suppression de la source EventLog Gestion de cloture GSB.
+Le service Gestion de cloture GSB est en cours de suppression du système...
+Le service Gestion de cloture GSB a été retiré avec succès du système.
